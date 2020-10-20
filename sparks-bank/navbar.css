@@ -1,0 +1,14 @@
+.nav-link{
+	margin-right: 15px;
+	color:#2F363F;
+	letter-spacing: 0.5px;
+}
+.navbar-brand{
+	color: #4C4B4B;
+	letter-spacing: 0.5px;
+}
+@media only screen and (orientation:portrait){
+	.navbar-brand{
+		font-size:15px;
+	}
+}
